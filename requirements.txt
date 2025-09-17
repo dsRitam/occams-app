@@ -1,0 +1,17 @@
+flask
+streamlit
+langchain 
+langchain-google-genai
+langchain-huggingface
+langchain-community
+faiss-cpu
+selenium
+webdriver-manager
+beautifulsoup4
+cryptography
+python-dotenv
+requests
+bcrypt
+sentence-transformers
+pytest
+pytest-mock
