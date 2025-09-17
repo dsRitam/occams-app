@@ -84,8 +84,8 @@ The SQLite database schema is as follows:
 ## Installation and Running Steps
 1. Clone the Repository:
     ```
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/dsRitam/occams-app.git
+    cd occams-app
     ```
 2. Set Up Virtual Environment:
     ```
